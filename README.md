@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hala Abughazaleh</h1>
-<h3 align="center">A passionate frontend developer fAspiring Data Scientist | Aspiring Researcher | AI & DS Student from Jordanrom India</h3>
+<h3 align="center">Aspiring Data Scientist | Aspiring Researcher | AI & DS Student from Jordanrom India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=halaag&label=Profile%20views&color=0e75b6&style=flat" alt="halaag" /> </p>
 
